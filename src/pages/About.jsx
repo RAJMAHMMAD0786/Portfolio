@@ -20,7 +20,7 @@ function About() {
 
         {/* This is the Heading of the left part */}
         <div className="heading">
-          <h1 className="text-white text-3xl font-bold mb-4 flex items-center gap-3 max-[750px]:justify-center"> <IoIosContact className="text-[#00A8FF] text-5xl" /> About <span className="text-blue-500">Me</span></h1>
+          <h1 className="text-white text-3xl font-bold mb-4 flex items-center gap-3 max-[750px]:justify-center max-[750px]:text-xl"> <IoIosContact className="text-[#00A8FF] text-5xl" /> About <span className="text-blue-500">Me</span></h1>
 
           {/* This is the lining below the About Me */}
           <div className="w-52 h-[0.5px] bg-blue-500 mt-0 ml-1 max-[750px]:ml-6"></div>
@@ -31,7 +31,7 @@ function About() {
         <div className="Aboutsection">
           {/* This is the heading of the Aabout sections */}
           <div className="headingofAbout">
-            <h2 className="text-white pt-5 font-bold text-2xl">Hello! I'm <span className="text-blue-500">Raj Mahmmad</span></h2>
+            <h2 className="text-white pt-5 font-bold text-2xl max-[750px]:text-xl max-[750px]:pt-0">Hello! I'm <span className="text-blue-500">Raj Mahmmad</span></h2>
           </div>
 
           {/* Paragraph of the About sections  */}
