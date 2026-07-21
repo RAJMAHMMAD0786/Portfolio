@@ -33,7 +33,7 @@ function Home() {
 
         {/* This is the About of the Students  */}
         <div className="About">
-          <p className="text-white text-md max-[750px]:text-sm max-[750px]:pt-3 ">Computer Science student skilled in <span className="text-blue-500 text-md"> C++, Data Structures & Algorithms (DSA), HTML, CSS, JavaScript, and React</span>. Solved 90+ LeetCode problems and passionate about building responsive web applications and enhancing user experiences through modern frontend development. </p>
+          <p className="text-white text-md max-[750px]:text-sm max-[750px]:pt-1 ">Computer Science student skilled in <span className="text-blue-500 text-md"> C++, Data Structures & Algorithms (DSA), HTML, CSS, JavaScript, and React</span>. Solved 90+ LeetCode problems and passionate about building responsive web applications and enhancing user experiences through modern frontend development. </p>
         </div>
 
         {/* This is the parts of the view project and contact me */}

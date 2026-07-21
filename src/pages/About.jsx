@@ -13,7 +13,7 @@ import { GoGoal } from "react-icons/go";
 
 function About() {
   return (
-    <div className="Aboutpage bg-slate-950 px-1 w-full h-[85vh] max-[750px]:h-[95vh] flex max-[750px]:px-3 max-[750px]:w-full">
+    <div className="Aboutpage bg-slate-950 px-1 w-full h-[85vh] max-[750px]:h-[85vh] flex max-[750px]:px-3 max-[750px]:w-full">
 
       {/* This is the left parts of the page */}
       <div className="leftpart w-[60%] pl-7 max-[750px]:w-[60%] ">
@@ -47,38 +47,38 @@ function About() {
           <a href="/RajMahmmad_Frontend.pdf" download className="text-blue-500 flex items-center gap-2 border border-blue-500 w-48 h-10 mt-7 pl-3 rounded-xl  hover:cursor-pointer hover:bg-[#1242a26c] hover:underline max-[750px]:px-1 max-[450px]:py-1" > <IoMdDownload /> Download Resume </a>
 
           {/* This is the coding stats */}
-          <div className="codingStatsbox w-10/12 h-36 rounded-md bg-[#031224] mt-5 max-[750px]:h-52">
+          <div className="codingStatsbox w-10/12 h-36 rounded-md bg-[#031224] mt-5 max-[750px]:h-40">
 
             {/* This is the heading */}
             <div className="headingofcodingStats">
-              <h2 className="text-white pt-3 pl-2">Coding Stats</h2>
+              <h2 className="text-white pt-3 pl-2 max-[750px]:pt-1">Coding Stats</h2>
             </div>
 
             {/* codechef information diya ja raha hai */}
             <div className="codechefinfo mt-3 flex  max-[750px]:flex-wrap max-[750px]:gap-1">
 
               {/* Problem solve  */}
-              <div className="problemsolvebox w-36 h-16 bg-[#071B36] border border-[#0E2A52] text-gray-500 ml-7 rounded-md  max-[750px]:w-18  max-[750px]:h-16 max-[750px]:text-xs max-[750px]:pl-1 max-[750px]:ml-1">
+              <div className="problemsolvebox w-36 h-16 bg-[#071B36] border border-[#0E2A52] text-gray-500 ml-7 rounded-md  max-[750px]:w-18  max-[750px]:h-12 max-[750px]:text-xs max-[750px]:pl-1 max-[750px]:ml-1">
                 <p className="font-bold pl-14 text-blue-500 hover:cursor-pointer max-[750px]:pl-5">750+</p>
                 <p className="font-bold text-[11px] pl-9 pt-1 hover:cursor-pointer max-[750px]:pl-2">Problem Solve</p>
               </div>
 
               {/* contests */}
-              <div className="problemsolvebox w-36 h-16 bg-[#071B36] border border-[#0E2A52] text-gray-500 ml-7 rounded-md  max-[750px]:w-18  max-[750px]:h-16 max-[750px]:text-xs max-[750px]:pl-1 max-[750px]:ml-1">
+              <div className="problemsolvebox w-36 h-16 bg-[#071B36] border border-[#0E2A52] text-gray-500 ml-7 rounded-md  max-[750px]:w-18  max-[750px]:h-12 max-[750px]:text-xs max-[750px]:pl-1 max-[750px]:ml-1">
                 <p className="font-bold pl-14 text-blue-500 hover:cursor-pointer max-[750px]:pl-5">8+</p>
-                <p className="font-bold text-[11px] pl-9 pt-1 hover:cursor-pointer max-[750px]:pl-2">Contests</p>
+                <p className="font-bold text-[11px] pl-9 pt-1 hover:cursor-pointer max-[750px]:pl-2 max-[750px]:text-[9px]">Contests</p>
               </div>
 
               {/* Maintaining streak */}
-              <div className="problemsolvebox w-36 h-16 bg-[#071B36] border border-[#0E2A52] text-gray-500 ml-7 rounded-md max-[750px]:w-18  max-[750px]:h-16 max-[750px]:text-xs max-[750px]:pl-1 max-[750px]:ml-1 max-[750px]:mt-3">
+              <div className="problemsolvebox w-36 h-16 bg-[#071B36] border border-[#0E2A52] text-gray-500 ml-7 rounded-md max-[750px]:w-18  max-[750px]:h-12 max-[750px]:text-xs max-[750px]:pl-1 max-[750px]:ml-1 max-[750px]:mt-3">
                 <p className="font-bold pl-14 text-blue-500 hover:cursor-pointer max-[750px]:pl-5">50+</p>
-                <p className="font-bold text-[11px] pl-9 pt-1 hover:cursor-pointer max-[750px]:pl-2">Maintaining streak</p>
+                <p className="font-bold text-[11px] pl-9 pt-1 hover:cursor-pointer max-[750px]:pl-2 max-[750px]:text-[9px]">Maintaining streak</p>
               </div>
 
               {/* CodeChef Rating */}
-              <div className="problemsolvebox w-36 h-16 bg-[#071B36] border border-[#0E2A52] text-gray-500 ml-7 rounded-md max-[750px]:w-18  max-[750px]:h-16 max-[750px]:text-xs max-[750px]:pl-1 max-[750px]:ml-1 max-[750px]:mt-3">
+              <div className="problemsolvebox w-36 h-16 bg-[#071B36] border border-[#0E2A52] text-gray-500 ml-7 rounded-md max-[750px]:w-18  max-[750px]:h-12 max-[750px]:text-xs max-[750px]:pl-1 max-[750px]:ml-1 max-[750px]:mt-3">
                 <p className="font-bold pl-14 text-blue-500 hover:cursor-pointer max-[750px]:pl-5">1136</p>
-                <p className="font-bold text-[11px] pl-9 pt-1 hover:cursor-pointer max-[750px]:pl-2">CodeChef Rating</p>
+                <p className="font-bold text-[11px] pl-9 pt-1 hover:cursor-pointer max-[750px]:pl-2 max-[750px]:text-[9px]">CodeChef Rating</p>
               </div>
 
             </div>
@@ -207,7 +207,7 @@ function About() {
 
           </div>
 
-          <p className="text-white pl-3 pt-1 text-xs max-[750px]:text-sm ">To obtain a Software Developer role where I can utilize my technical skills, gain practical experience, and contribute to the success of the organization while growing professionally.</p>
+          <p className="text-white pl-3 pt-1 text-xs max-[750px]:text-xs ">To obtain a Software Developer role where I can utilize my technical skills, gain practical experience, and contribute to the success of the organization while growing professionally.</p>
 
 
         </div>
