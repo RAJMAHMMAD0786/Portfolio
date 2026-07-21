@@ -19,11 +19,11 @@ function Home() {
       <div className="leftpart w-[50%]  pt-19 pl-10 flex flex-col gap-2 max-[750px]:pt-10 max-[750px]:pl-5">
 
         {/* This is the paragraph  */}
-        <p className="text-white max-[750px]:text-xl max-[750px]:pt-1">Hi, I'm</p>
+        <p className="text-white max-[750px]:text-sm max-[750px]:pt-1">Hi, I'm</p>
 
         {/* This is the name of the students */}
         <div className="name">
-          <h1 className="text-white font-bold text-3xl max-[750px]:text-xl">Raj <span className="text-blue-700 font-bold text-3xl max-[750px]:text-xl">Mahmmad</span></h1>
+          <h1 className="text-white font-bold text-3xl max-[750px]:text-2xl">Raj <span className="text-blue-700 font-bold text-3xl max-[750px]:text-2xl">Mahmmad</span></h1>
         </div>
 
         {/* This is the Aim of the Students */}
@@ -33,7 +33,7 @@ function Home() {
 
         {/* This is the About of the Students  */}
         <div className="About">
-          <p className="text-white text-md max-[750px]:text-xs max-[750px]:pt-3 ">Computer Science student skilled in <span className="text-blue-500 text-md"> C++, Data Structures & Algorithms (DSA), HTML, CSS, JavaScript, and React</span>. Solved 90+ LeetCode problems and passionate about building responsive web applications and enhancing user experiences through modern frontend development. </p>
+          <p className="text-white text-md max-[750px]:text-sm max-[750px]:pt-3 ">Computer Science student skilled in <span className="text-blue-500 text-md"> C++, Data Structures & Algorithms (DSA), HTML, CSS, JavaScript, and React</span>. Solved 90+ LeetCode problems and passionate about building responsive web applications and enhancing user experiences through modern frontend development. </p>
         </div>
 
         {/* This is the parts of the view project and contact me */}

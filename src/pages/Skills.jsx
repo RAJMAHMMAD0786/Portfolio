@@ -60,7 +60,7 @@ function Skills() {
           <div className="programinglanguagecompleted flex-wrap ml-24 flex gap-5 max-[750px]:ml-1 max-[750px]:gap-2">
 
             {/* This is the cpp */}
-            <div className="cpp text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:h-10 max-[750px]:text-xs max-[750px]:mt-1">
+            <div className="cpp text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:h-12 max-[750px]:text-xs max-[750px]:mt-3 ">
 
               {/* logo of the cpp */}
               <div className="cpplogo ml-5 max-[750px]:ml-1">
@@ -77,7 +77,7 @@ function Skills() {
 
 
             {/* This is the OOPs */}
-            <div className="cppwithOOPs text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:h-10 max-[750px]:text-xs max-[750px]:mt-1">
+            <div className="cppwithOOPs text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:h-12 max-[750px]:text-xs max-[750px]:mt-3">
 
               {/* logo of the cpp */}
               <div className="CPPOOPslogo ml-5 max-[750px]:ml-1">
@@ -94,7 +94,7 @@ function Skills() {
 
 
             {/* This is the JavaScript */}
-            <div className="JavaScript text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:h-10 max-[750px]:text-xs max-[750px]:mt-1">
+            <div className="JavaScript text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:h-12 max-[750px]:text-xs max-[750px]:mt-3">
 
               {/* logo of the cpp */}
               <div className="JavaScriptlogo ml-5 max-[750px]:ml-1 bg-amber-300">
@@ -133,7 +133,7 @@ function Skills() {
           <div className="FrontendDevelopmentcompleted ml-24 flex gap-5 max-[750px]:ml-1 max-[750px]:gap-2 max-[750px]:flex-wrap">
 
             {/* This is the HTML5 */}
-            <div className="HTML5 text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="HTML5 text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the HTML5 */}
               <div className="HTML5logo ml-5 max-[750px]:ml-1">
@@ -150,7 +150,7 @@ function Skills() {
 
 
             {/* This is the CSS3 */}
-            <div className="CSS3 text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="CSS3 text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the CSS3 */}
               <div className="CSS3logo ml-5 max-[750px]:ml-1">
@@ -167,7 +167,7 @@ function Skills() {
 
 
             {/* This is the React.js */}
-            <div className="Reactjs text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="Reactjs text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the React.js */}
               <div className="Reactjslogo ml-5 max-[750px]:ml-1">
@@ -183,7 +183,7 @@ function Skills() {
 
 
             {/* This is the Tailwind CSS */}
-            <div className="TailwindCSS text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="TailwindCSS text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the Tailwind CSS */}
               <div className="TailwindCSSlogo ml-5 max-[750px]:ml-1">
@@ -218,7 +218,7 @@ function Skills() {
           <div className="BackendDevelopmentcompleted flex-wrap ml-24 flex gap-5 max-[750px]:ml-1 max-[750px]:gap-2">
 
             {/* This is the Node.js */}
-            <div className="Nodejs text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="Nodejs text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the Node.js */}
               <div className="Nodejslogo ml-5 max-[750px]:ml-1">
@@ -235,7 +235,7 @@ function Skills() {
 
 
             {/* This is the Express.js */}
-            <div className="Expressjs text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="Expressjs text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the Express.js */}
               <div className="Expressjslogo ml-5 max-[750px]:ml-1">
@@ -252,7 +252,7 @@ function Skills() {
 
 
             {/* This is the MongoDB */}
-            <div className="MongoDB text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="MongoDB text-white w-72 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-28 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the MongoDB */}
               <div className="JavaScriptlogo ml-5 max-[750px]:ml-1 ">
@@ -288,7 +288,7 @@ function Skills() {
           <div className="ToolsandPlatformscompleted ml-24 flex gap-5 max-[750px]:ml-1 max-[750px]:gap-2 max-[750px]:flex-wrap">
 
             {/* This is the Git */}
-            <div className="Git text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="Git text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the Git */}
               <div className="Gitlogo ml-5 max-[750px]:ml-1">
@@ -304,7 +304,7 @@ function Skills() {
 
 
             {/* This is the GitHub */}
-            <div className="GitHub text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="GitHub text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the GitHub */}
               <div className="GitHublogo ml-5 max-[750px]:ml-1">
@@ -320,7 +320,7 @@ function Skills() {
 
 
             {/* This is the VS Code */}
-            <div className="VSCode text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="VSCode text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the VS Code */}
               <div className="VSCodelogo ml-5 max-[750px]:ml-1">
@@ -334,7 +334,7 @@ function Skills() {
             </div>
 
             {/* This is the Postman */}
-            <div className="Postman text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-10 max-[750px]:mt-1">
+            <div className="Postman text-white w-53 h-16 bg-[#06152B]  mt-3 rounded-xl flex gap-3 items-center hover:cursor-pointer hover:font-bold max-[750px]:w-40 max-[750px]:text-xs max-[750px]:h-12 max-[750px]:mt-3">
 
               {/* logo of the Postman */}
               <div className="Postmanlogo ml-5 max-[750px]:ml-1">
