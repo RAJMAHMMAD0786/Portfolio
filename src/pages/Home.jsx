@@ -13,7 +13,7 @@ import { MdContactPhone } from "react-icons/md";
 
 function Home() {
   return (
-    <div className="homepage h-[85vh] bg-slate-950 flex max-[750px]:h-[85vh]">
+    <div className="homepage h-[85vh] bg-slate-950 flex max-[750px]:h-[90vh]">
 
       {/* This is the left part of the home page  */}
       <div className="leftpart w-[50%]  pt-19 pl-10 flex flex-col gap-2 max-[750px]:pt-10 max-[750px]:pl-5">

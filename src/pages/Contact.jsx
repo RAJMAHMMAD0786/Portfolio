@@ -11,7 +11,7 @@ import { IoIosSend } from "react-icons/io";
 
 function Contact() {
   return (
-    <div className="Contactpage h-[85vh] bg-slate-950 max-[750px]:h-[85vh] flex">
+    <div className="Contactpage h-[85vh] bg-slate-950 max-[750px]:h-[90vh] flex">
 
       {/* Left parts of the page  */}
       <div className="leftparts w-1/2 pl-20 pt-5 max-[750px]:pl-10">

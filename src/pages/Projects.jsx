@@ -10,7 +10,7 @@ import { FaGithub } from "react-icons/fa";
 
 function Projects() {
   return (
-    <div className="projectpage h-[85vh] bg-slate-950 max-[750px]:h-[85vh]">
+    <div className="projectpage h-[85vh] bg-slate-950 max-[750px]:h-[90vh]">
 
       {/* This is for spotify */}
       <div className="spotify h-[40vh] flex pt-3">

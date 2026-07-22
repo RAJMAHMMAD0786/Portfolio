@@ -13,7 +13,7 @@ import { GoGoal } from "react-icons/go";
 
 function About() {
   return (
-    <div className="Aboutpage bg-slate-950 px-1 w-full h-[85vh] max-[750px]:h-[85vh] flex max-[750px]:px-3 max-[750px]:w-full"
+    <div className="Aboutpage bg-slate-950 px-1 w-full h-[85vh] max-[750px]:h-[90vh] flex max-[750px]:px-3 max-[750px]:w-full"
      style={{
       margin: 0,
       padding: 0,
