@@ -13,7 +13,13 @@ import { GoGoal } from "react-icons/go";
 
 function About() {
   return (
-    <div className="Aboutpage bg-slate-950 px-1 w-full h-[85vh] max-[750px]:h-[85vh] flex max-[750px]:px-3 max-[750px]:w-full">
+    <div className="Aboutpage bg-slate-950 px-1 w-full h-[85vh] max-[750px]:h-[85vh] flex max-[750px]:px-3 max-[750px]:w-full"
+     style={{
+      margin: 0,
+      padding: 0,
+      overflowX: "hidden",
+      width: "100%",
+    }}>
 
       {/* This is the left parts of the page */}
       <div className="leftpart w-[60%] pl-7 max-[750px]:w-[60%] ">
@@ -92,7 +98,7 @@ function About() {
 
 
         {/* personal Information this is the first card in right side */}
-        <div className="personalInfobox w-[60%] bg-[#031224] h-65 ml-36 mt-5 rounded-xl border border-[#09203d] max-[750px]:w-full max-[750px]:ml-3 max-[750px]:mt-0">
+        <div className="personalInfobox w-[60%] bg-[#031224] h-65 mx-auto mt-5 rounded-xl border border-[#09203d] max-[750px]:w-full max-[750px]:ml-3 max-[750px]:mt-0">
 
           {/* heading of personal information */}
           <div className="heading pl-3 pt-2">
