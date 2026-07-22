@@ -42,11 +42,11 @@ function About() {
 
           {/* Paragraph of the About sections  */}
           <div className="paragraphofAbout">
-            <p className="text-white pt-3 text-md max-[750px]:text-xs">I am a B.Tech Computer Science and Engineering student at <span className="text-blue-500 max-[750px]:text-xs">NIMS University</span> with a strong interest in software development and problem-solving. I enjoy building responsive and user-friendly web applications while continuously improving my technical skills.</p>
+            <p className="text-white pt-3 text-md max-[750px]:text-[9px]">I am a B.Tech Computer Science and Engineering student at <span className="text-blue-500 max-[750px]:text-xs">NIMS University</span> with a strong interest in software development and problem-solving. I enjoy building responsive and user-friendly web applications while continuously improving my technical skills.</p>
 
-            <p className="text-white pt-3 text-md max-[750px]:text-xs">I have experience with <span className="text-blue-500 max-[750px]:text-xs">C++, Data Structures & Algorithms, HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB.</span> I have also solved 90+ LeetCode problems, which have strengthened my analytical and coding abilities.</p>
+            <p className="text-white pt-3 text-md max-[750px]:text-[9px]">I have experience with <span className="text-blue-500 max-[750px]:text-xs">C++, Data Structures & Algorithms, HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB.</span> I have also solved 90+ LeetCode problems, which have strengthened my analytical and coding abilities.</p>
 
-            <p className="text-white pt-3 text-md max-[750px]:text-xs">My goal is to become a <span className="text-blue-500 max-[750px]:text-xs">Full-Stack Developer</span> and contribute to innovative projects that create meaningful real-world impact. I am always eager to learn new technologies and take on new challenges that help me grow as a developer.</p>
+            <p className="text-white pt-3 text-md max-[750px]:text-[9px]">My goal is to become a <span className="text-blue-500 max-[750px]:text-xs">Full-Stack Developer</span> and contribute to innovative projects that create meaningful real-world impact. I am always eager to learn new technologies and take on new challenges that help me grow as a developer.</p>
           </div>
 
           {/* This is the Resume */}

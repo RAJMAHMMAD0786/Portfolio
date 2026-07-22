@@ -159,7 +159,7 @@ function Projects() {
 
           {/* This is the heading of the project or name*/}
           <div className="headingogproject">
-            <h1 className="text-green-500 font-bold text-2xl ml-7 mt-2 max-[750px]:text-md max-[750px]:mt-0">Password<span className="text-white">Manager</span></h1>
+            <h1 className="text-green-500 font-bold text-2xl ml-7 mt-2 max-[750px]:text-md max-[750px]:mt-0">Password <span className="text-white">Manager</span></h1>
           </div>
 
           {/* This is the paragrph of the Spotify  */}
